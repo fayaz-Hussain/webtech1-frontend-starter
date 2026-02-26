@@ -8,13 +8,13 @@ export default function App() {
 
       <div className={styles.card}>
         <p>
-          <strong>Name:</strong> Your Name Here
+          <strong>Name:</strong> Fayaz Hussain
         </p>
         <p>
-          <strong>Section:</strong> 1 or 2
+          <strong>Section:</strong> BSCS-8 taking classes with BSCS-6 section A 
         </p>
         <p>
-          <strong>Project:</strong> Your Project Name
+          <strong>Project:</strong> not yet decided 
         </p>
       </div>
     </div>
